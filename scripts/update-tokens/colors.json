@@ -44967,6 +44967,22 @@
     "solana-mainnet-beta_xketxo1125vz5h9svjpgiw4jvlbn8vmmu9cmmvspump": {
       "bgColor": "rgb(21,60,80)",
       "textColor": "#fff"
+    },
+    "8453_0x0a074378461fb7ed3300ea638c6cc38246db4434": {
+      "bgColor": "rgb(0,0,0)",
+      "textColor": "#fff"
+    },
+    "56_0x8fd0d741e09a98e82256c63f25f90301ea71a83e": {
+      "bgColor": "rgb(20,29,12)",
+      "textColor": "#fff"
+    },
+    "osmosis-1_ibcd6ed8ccf01de2f86d0d8a9605a8535a66c930697e986616227506ebde8b8ac91": {
+      "bgColor": "rgb(32,80,243)",
+      "textColor": "#fff"
+    },
+    "axelar-dojo-1_cbdoge-satoshi": {
+      "bgColor": "rgb(32,80,243)",
+      "textColor": "#fff"
     }
   },
   "chains": {
