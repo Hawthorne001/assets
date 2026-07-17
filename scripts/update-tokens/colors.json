@@ -44983,6 +44983,10 @@
     "axelar-dojo-1_cbdoge-satoshi": {
       "bgColor": "rgb(32,80,243)",
       "textColor": "#fff"
+    },
+    "solana-mainnet-beta_hpq1qqiqq9ngxhkjzvfgktussvztewajqsfqetlwhtyc": {
+      "bgColor": "rgb(0,0,0)",
+      "textColor": "#fff"
     }
   },
   "chains": {
